@@ -1,0 +1,14 @@
+layout_spectrum: 0.6148712583817542
+typography_spectrum: 0.15986878494732082
+color:
+  brandStrength: 0.5591533565893769
+  lightness: 0.3934654276818037
+  saturation: 0.29415372642688453
+  rhythmicContrast: 0.5187443061731756
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: testbearlife
